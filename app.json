@@ -4,15 +4,15 @@
     "keywords": [],
     "env": {
         "ID": {
-            "description": "UUID",
+            "description": "a",
             "value": "8bfe956f-7400-4ac3-bcce-b71e772409f9"
         },
         "AID": {
-            "description": "AlterID",
+            "description": "b",
             "value": "64"
         },
         "WSPATH": {
-            "description": "WebSocket Path",
+            "description": "c",
             "value": "/"
         }
     },
